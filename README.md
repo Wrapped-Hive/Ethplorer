@@ -1,5 +1,11 @@
 # Ethplorer - Ethereum Tokens Explorer
 
+---
+
+Note for Wrapped-hive users: Oracle relies on ethplorer.io API to get transaction data from Ethereum.
+
+---
+
 Your friendly gate into the Ethereum tokens world
 
 Provides API, TOP charts, Ethereum Tokens Index, Widgets for websites.
